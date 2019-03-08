@@ -1,7 +1,7 @@
 # stm32
 I have't use stm32 about 3 years, in order to remember the code i have used，so upload it to github
 
-THE MPU6050 directory is an example I wrote to my schoolmate， it contains serial port, PWM, button, gyroscope sample program
+THE MPU6050 directory is an example I wrote to my university laboratory schoolmate， it contains serial port, PWM, button, gyroscope sample program
 
 自从毕业没怎么用过stm32了，现在把曾经写过的或者用过的他人的代码传上来。
 
